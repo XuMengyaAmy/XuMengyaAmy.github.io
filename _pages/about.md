@@ -26,6 +26,7 @@ My research interests are mainly about source-constrained medical image computin
 - *2022.06*: One paper about surgical captioning is accepted by MICCAI 2022.
 
 # 📝Journal Publications 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/stentnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"
 
@@ -33,6 +34,7 @@ My research interests are mainly about source-constrained medical image computin
 
 **Mengya Xu**, Lalithkumar Seenivasan, Leonard Leong Litt Yeo, and Hongliang Ren.. Advanced Intelligent Systems 2020 . 
 [[Pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aisy.202000092)] [[Code](https://github.com/XuMengyaAmy/Stent_Deployment_DL)]
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/SIRNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"
