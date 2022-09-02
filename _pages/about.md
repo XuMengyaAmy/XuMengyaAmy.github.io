@@ -27,7 +27,7 @@ My research interests are mainly about source-constrained medical image computin
 
 # 📝Journal Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIS 2022</div><img src='images/stentnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIS 2020</div><img src='images/stentnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Stent Deployment Detection Using Radio Frequency‐Based Sensor and Convolutional Neural Networks**
