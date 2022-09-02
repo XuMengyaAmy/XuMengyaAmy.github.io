@@ -39,7 +39,7 @@ My research interests are mainly about source-constrained medical image computin
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/SIRNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
      
 **SIRNet: Fine-Grained Surgical Interaction Recognition**
@@ -56,7 +56,7 @@ IEEE Robotics and Automation Letters (RA-L) 2022.
   
 # 📝Conference Publications
      
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/M2Transformer_DAN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Learning domain adaptation with model calibration for surgical report generation in robotic surgery**
@@ -71,7 +71,7 @@ MICCAI-2022
 </div>
      
      
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/CIDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ** Class-incremental domain adaptation with smoothing and calibration for surgical report generationy**
@@ -86,7 +86,7 @@ MICCAI-2022
 </div>
      
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/SwinMLP_TranCAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ** Rethinking Surgical Captioning: End-to-End Window-Based MLP Transformer Using Patches**
