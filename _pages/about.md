@@ -26,7 +26,7 @@ My research interests are mainly about source-constrained medical image computin
 - *2022.06*: One paper about surgical captioning is accepted by MICCAI 2022.
 - 
 # 📝Journal Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/miccai2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**
