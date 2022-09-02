@@ -27,19 +27,23 @@ My research interests are mainly about source-constrained medical image computin
 
 # 📝Journal Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/stentnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIS 2022</div><img src='images/stentnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Stent Deployment Detection Using Radio Frequency‐Based Sensor and Convolutional Neural Networks**
 
-**Mengya Xu**, Lalithkumar Seenivasan, Leonard Leong Litt Yeo, and Hongliang Ren.. Advanced Intelligent Systems 2020 . 
-[[Pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aisy.202000092)] [[Code](https://github.com/XuMengyaAmy/Stent_Deployment_DL)]
+**Mengya Xu**, Lalithkumar Seenivasan, Leonard Leong Litt Yeo, and Hongliang Ren.
+  
+Advanced Intelligent Systems 2020
+  
+[pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aisy.202000092) \| [code](https://github.com/XuMengyaAmy/Stent_Deployment_DL)
+
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/SIRNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2022</div><img src='images/SIRNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
      
 **SIRNet: Fine-Grained Surgical Interaction Recognition**
@@ -65,22 +69,22 @@ IEEE Robotics and Automation Letters (RA-L) 2022.
   
 MICCAI-2022
 
-[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561569)] [[code](https://github.com/XuMengyaAmy/ReportDALS)]
+[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561569)] \| [code](https://github.com/XuMengyaAmy/ReportDALS)
 
 </div>
 </div>
      
      
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/CIDA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2021</div><img src='images/CIDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ** Class-incremental domain adaptation with smoothing and calibration for surgical report generationy**
 
 **Mengya Xu**, Mobarakol Islam, Chwee Ming Lim, and Hongliang Ren
   
-MICCAI-2022
+MICCAI 2021
 
-[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561569)] [[code](https://github.com/XuMengyaAmy/ReportDALS)]
+[pdf](https://arxiv.org/pdf/2107.11091.pdf) \| [Code](https://github.com/XuMengyaAmy/CIDACaptioning)
 
 </div>
 </div>
@@ -93,9 +97,9 @@ MICCAI-2022
 
 **Mengya Xu**, Mobarakol Islam, Chwee Ming Lim, and Hongliang Ren
   
-MICCAI-2022
+MICCAI 2022
 
-[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561569)] [[code](https://github.com/XuMengyaAmy/ReportDALS)]
+[pdf](https://arxiv.org/pdf/2207.00113.pdf)] \| [Code](https://github.com/XuMengyaAmy/SwinMLP_TranCAP)
 
 </div>
 </div>
@@ -108,7 +112,7 @@ MICCAI-2022
 
 An Wang\*, Mobarakol Islam\*, **Mengya Xu**, and Hongliang Ren\*\*
   
-MICCAI-2022
+MICCAI 2022
 
 [pdf](https://arxiv.org/abs/2206.11804) \| [code](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation)
 
