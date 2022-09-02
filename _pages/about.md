@@ -26,6 +26,20 @@ My research interests are mainly about source-constrained medical image computin
 - *2022.06*: One paper about surgical captioning is accepted by MICCAI 2022.
 - 
 # 📝Journal Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/stentnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"
+
+**Stent Deployment Detection Using Radio Frequency‐Based Sensor and Convolutional Neural Networks**
+
+**Mengya Xu**, Lalithkumar Seenivasan, Leonard Leong Litt Yeo, and Hongliang Ren.. Advanced Intelligent Systems 2020 . [[Paper](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aisy.202000092)] [[Code](https://github.com/XuMengyaAmy/Stent_Deployment_DL)]
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/stentnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"
+     
+**SIRNet: Fine-Grained Surgical Interaction Recognition**
+ Li, Ling, Xiaojian Li, Shuai Ding, Zhao Fang, **Mengya Xu**, Hongliang Ren, and Shanlin Yang.  IEEE Robotics and Automation Letters (RA-L) 2022. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9705584)] [[Code](https://github.com/cynerelee/SIRNet)]
+# 📝Conference Publications 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,36 +54,9 @@ MICCAI-2022
 </div>
 </div>
 
-# 📝Conference Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/miccai2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**
-
-An Wang\*, Mobarakol Islam\*, **Mengya Xu**, and Hongliang Ren\*\*
-  
-MICCAI-2022
-
-[pdf](https://arxiv.org/abs/2206.11804) \| [code](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation)
-
-</div>
-</div>
 
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE J-BHI</div><img src='images/curri-afda.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**Curriculum-Based Augmented Fourier Domain Adaption for Medical Image Segmentation**
-
-An Wang\*, Mobarakol Islam\*, Mengya Xu\*, and Hongliang Ren\*\*
-
-(IEEE J-BHI, under review)
-
-</div>
-</div>
 
 <!--
 # 🎖 Honors and Awards
