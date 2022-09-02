@@ -47,7 +47,7 @@ IEEE Robotics and Automation Letters (RA-L) 2022.
      
 
   
-# 📝Journal Publications
+# 📝Conference Publications
      
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -119,7 +119,7 @@ MICCAI-2022
 -->
 
 # 📖 Educations
-- *2021.10 - now*, Ph.D., Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
+- *2021.10 - now*, Ph.D., Biomedic Engineering, National University of Singapore, Singapore
 - *2018.08 - 2019.06*, M.Sc., Electrical Engineering, National University of Singapore, Singapore
 - *2014.09 - 2018.06*, B.Eng., Information Engineering, Soochow University, Suzhou, China
 
@@ -128,7 +128,3 @@ MICCAI-2022
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
-
-# 💻 Teaching
-- *2022.01 - 2022.05*, Robotic Perception and Intelligence, Teaching Assistant
-- *2021.09 - 2021.12*, Probability for Engineers, Teaching Assistant
