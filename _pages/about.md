@@ -23,10 +23,22 @@ My research interests are mainly about source-constrained medical image computin
 
 
 # 🔥 News
-- *2022.06*: One paper about synthetic data generation from limited source is accepted by MICCAI 2022.
+- *2022.06*: One paper about surgical captioning is accepted by MICCAI 2022.
+- 
+# 📝Journal Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/miccai2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 📝 Publications 
-*: First author; **: Corresponding author
+**Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**
+
+An Wang\*, Mobarakol Islam\*, **Mengya Xu**, and Hongliang Ren\*\*
+  
+MICCAI-2022
+
+[pdf](https://arxiv.org/abs/2206.11804) \| [code](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation)
+
+</div>
+</div>
 
 # 📝Conference Publications 
 
@@ -43,7 +55,7 @@ MICCAI-2022
 
 </div>
 </div>
-# 📝Journal Publications 
+
 
 
 
