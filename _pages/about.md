@@ -47,7 +47,7 @@ IEEE Robotics and Automation Letters (RA-L) 2022.
      
 
   
-# 📝Journal Publications s 
+# 📝Journal Publications
      
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,7 +64,35 @@ MICCAI-2022
 </div>
      
      
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+** Class-incremental domain adaptation with smoothing and calibration for surgical report generationy**
+
+**Mengya Xu**, Mobarakol Islam, Chwee Ming Lim, and Hongliang Ren
+  
+MICCAI-2022
+
+[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561569)] [[code](https://github.com/XuMengyaAmy/ReportDALS)]
+
+</div>
+</div>
      
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+** Rethinking Surgical Captioning: End-to-End Window-Based MLP Transformer Using Patches**
+
+**Mengya Xu**, Mobarakol Islam, Chwee Ming Lim, and Hongliang Ren
+  
+MICCAI-2022
+
+[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561569)] [[code](https://github.com/XuMengyaAmy/ReportDALS)]
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
