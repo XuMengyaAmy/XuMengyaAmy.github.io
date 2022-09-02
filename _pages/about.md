@@ -28,7 +28,7 @@ My research interests are mainly about source-constrained medical image computin
 # 📝Journal Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/stentnet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"
+<div class='paper-box-text' markdown="1">
 
 **Stent Deployment Detection Using Radio Frequency‐Based Sensor and Convolutional Neural Networks**
 
@@ -37,7 +37,7 @@ My research interests are mainly about source-constrained medical image computin
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/SIRNet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"
+<div class='paper-box-text' markdown="1">
      
 **SIRNet: Fine-Grained Surgical Interaction Recognition**
 
