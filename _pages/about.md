@@ -47,6 +47,23 @@ IEEE Robotics and Automation Letters (RA-L) 2022.
      
      
 # 📝Conference Publications 
+     
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Learning domain adaptation with model calibration for surgical report generation in robotic surgery**
+
+**Mengya Xu**, Mobarakol Islam, Chwee Ming Lim, and Hongliang Ren
+  
+MICCAI-2022
+
+[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561569)] [[code](https://github.com/XuMengyaAmy/ReportDALS)]
+
+</div>
+</div>
+     
+     
+     
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
