@@ -35,8 +35,11 @@ My research interests are mainly about source-constrained medical image computin
 **Mengya Xu**, Lalithkumar Seenivasan, Leonard Leong Litt Yeo, and Hongliang Ren.. Advanced Intelligent Systems 2020 . 
 [[Pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aisy.202000092)] [[Code](https://github.com/XuMengyaAmy/Stent_Deployment_DL)]
 
+</div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/SIRNet.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
      
 **SIRNet: Fine-Grained Surgical Interaction Recognition**
@@ -47,6 +50,8 @@ IEEE Robotics and Automation Letters (RA-L) 2022.
     
 [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9705584) \| [code](https://github.com/cynerelee/SIRNet)
      
+</div>
+</div>
 
   
 # 📝Conference Publications
@@ -81,7 +86,6 @@ MICCAI-2022
 </div>
      
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -96,6 +100,7 @@ MICCAI-2022
 </div>
 </div>
 
+  
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -110,10 +115,7 @@ MICCAI-2022
 </div>
 </div>
 
-
-
-
-
+ 
 <!--
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
