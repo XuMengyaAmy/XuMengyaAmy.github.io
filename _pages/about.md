@@ -24,12 +24,12 @@ My research interests are mainly about source-constrained medical image computin
 
 # 🔥 News
 - *2022.06*: One paper about surgical captioning is accepted by MICCAI 2022.
-- 
+
 # 📝Journal Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/stentnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"
 
-**1.Stent Deployment Detection Using Radio Frequency‐Based Sensor and Convolutional Neural Networks**
+**Stent Deployment Detection Using Radio Frequency‐Based Sensor and Convolutional Neural Networks**
 
 **Mengya Xu**, Lalithkumar Seenivasan, Leonard Leong Litt Yeo, and Hongliang Ren.. Advanced Intelligent Systems 2020 . 
 [[Pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aisy.202000092)] [[Code](https://github.com/XuMengyaAmy/Stent_Deployment_DL)]
@@ -37,7 +37,7 @@ My research interests are mainly about source-constrained medical image computin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/SIRNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"
      
-**2.SIRNet: Fine-Grained Surgical Interaction Recognition**
+**SIRNet: Fine-Grained Surgical Interaction Recognition**
 
 Li, Ling, Xiaojian Li, Shuai Ding, Zhao Fang, **Mengya Xu**, Hongliang Ren, and Shanlin Yang.  
      
@@ -45,8 +45,9 @@ IEEE Robotics and Automation Letters (RA-L) 2022.
     
 [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9705584) \| [code](https://github.com/cynerelee/SIRNet)
      
-     
-# 📝Conference Publications 
+
+  
+# 📝Journal Publications s 
      
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
