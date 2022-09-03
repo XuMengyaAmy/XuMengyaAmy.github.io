@@ -30,7 +30,10 @@ My research interests are mainly about Image-based Robotic Surgery Intelligence:
 # 🔥 News
 - *2022.06*: One paper about surgical captioning is accepted by MICCAI 2022.
 
-# 📝Journal Publications 
+# 📝Journal Publications
+
+Self-powered glove-based intuitive interface for diversified control applications in real/cyber space, He, Tianyiyi, Zhongda Sun, Qiongfeng Shi, Minglu Zhu, David Vera Anaya, **Mengya Xu**, Tao Chen, Mehmet Rasit Yuce, Aaron Voon-Yew Thean, and Chengkuo Lee. Nano Energy
+[pdf](https://www.sciencedirect.com/science/article/pii/S2211285519300771)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIS 2020</div><img src='images/stentnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
