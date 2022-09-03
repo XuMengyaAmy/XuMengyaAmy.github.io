@@ -6,8 +6,11 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Journal Publications"
+    url: "/#-journal-publications"
+    
+  - title: "Conference Publications"
+    url: "/#-conference-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -15,6 +18,9 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
+  - title: "Services"
+    url: "/#-services"
+    
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
