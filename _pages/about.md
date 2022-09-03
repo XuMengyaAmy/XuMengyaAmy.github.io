@@ -136,7 +136,6 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 
 # 📖 Service
 - * 2022.07.03 - as a reviewer for  Domain Adaptation and Representation Transfer (DART) 2022.
-- 
 
 # 💬 Invited Talks
 - *2022.08*.30,  a joint workshop with Shandong Univeristy
