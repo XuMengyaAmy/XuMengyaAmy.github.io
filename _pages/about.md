@@ -32,7 +32,7 @@ My research interests are mainly about Image-based Robotic Surgery Intelligence:
 
 # 📝Journal Publications
 
-1. Self-powered glove-based intuitive interface for diversified control applications in real/cyber space, He, Tianyiyi, Zhongda Sun, Qiongfeng Shi, Minglu Zhu, David Vera Anaya, **Mengya Xu**, Tao Chen, Mehmet Rasit Yuce, Aaron Voon-Yew Thean, and Chengkuo Lee. Nano Energy
+**1. Self-powered glove-based intuitive interface for diversified control applications in real/cyber space**, He, Tianyiyi, Zhongda Sun, Qiongfeng Shi, Minglu Zhu, David Vera Anaya, **Mengya Xu**, Tao Chen, Mehmet Rasit Yuce, Aaron Voon-Yew Thean, and Chengkuo Lee. Nano Energy
 [pdf](https://www.sciencedirect.com/science/article/pii/S2211285519300771)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIS 2020</div><img src='images/stentnet.png' alt="sym" width="100%"></div></div>
