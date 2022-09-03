@@ -134,7 +134,7 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 - *2014.09 - 2018.06*, B.Eng., Information Engineering, Soochow University, Suzhou, China  (Excellent Graduates)
 
 
-# 📖 Service
+# 📖 Services
 - 2022.07.03 - as a reviewer for  Domain Adaptation and Representation Transfer (DART) 2022.
 
 
