@@ -128,19 +128,22 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 </div>
 
  
+# 📖 Educations
+- *2021.10 - now*, Ph.D., Biomedic Engineering, National University of Singapore, Singapore
+- *2018.08 - 2019.06*, M.Sc., Electrical Engineering, National University of Singapore, Singapore
+- *2014.09 - 2018.06*, B.Eng., Information Engineering, Soochow University, Suzhou, China  (Excellent Graduates)
+
+
+# 📖 Service
+- * 2022.07.03 - as a reviewer for  Domain Adaptation and Representation Transfer (DART) 2022.
+- 
+
+# 💬 Invited Talks
+- *2022.08*.30,  a joint workshop with Shandong Univeristy
+
 <!--
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-# 📖 Educations
-- *2021.10 - now*, Ph.D., Biomedic Engineering, National University of Singapore, Singapore
-- *2018.08 - 2019.06*, M.Sc., Electrical Engineering, National University of Singapore, Singapore
-- *2014.09 - 2018.06*, B.Eng., Information Engineering, Soochow University, Suzhou, China
-
-<!--
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
