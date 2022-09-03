@@ -32,13 +32,13 @@ My research interests are mainly about Image-based Robotic Surgery Intelligence:
 
 # 📝Journal Publications
 
-Self-powered glove-based intuitive interface for diversified control applications in real/cyber space, He, Tianyiyi, Zhongda Sun, Qiongfeng Shi, Minglu Zhu, David Vera Anaya, **Mengya Xu**, Tao Chen, Mehmet Rasit Yuce, Aaron Voon-Yew Thean, and Chengkuo Lee. Nano Energy
+1. Self-powered glove-based intuitive interface for diversified control applications in real/cyber space, He, Tianyiyi, Zhongda Sun, Qiongfeng Shi, Minglu Zhu, David Vera Anaya, **Mengya Xu**, Tao Chen, Mehmet Rasit Yuce, Aaron Voon-Yew Thean, and Chengkuo Lee. Nano Energy
 [pdf](https://www.sciencedirect.com/science/article/pii/S2211285519300771)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIS 2020</div><img src='images/stentnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Stent Deployment Detection Using Radio Frequency‐Based Sensor and Convolutional Neural Networks**
+**2. Stent Deployment Detection Using Radio Frequency‐Based Sensor and Convolutional Neural Networks**
 
 **Mengya Xu**, Lalithkumar Seenivasan, Leonard Leong Litt Yeo, and Hongliang Ren.
   
@@ -54,7 +54,7 @@ Advanced Intelligent Systems 2020
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2022</div><img src='images/SIRNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
      
-**SIRNet: Fine-Grained Surgical Interaction Recognition**
+**3. SIRNet: Fine-Grained Surgical Interaction Recognition**
 
 Li, Ling, Xiaojian Li, Shuai Ding, Zhao Fang, **Mengya Xu**, Hongliang Ren, and Shanlin Yang.  
      
@@ -71,7 +71,7 @@ IEEE Robotics and Automation Letters (RA-L) 2022.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='images/M2Transformer_DAN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Learning domain adaptation with model calibration for surgical report generation in robotic surgery**
+**4. Learning domain adaptation with model calibration for surgical report generation in robotic surgery**
 
 **Mengya Xu**, Mobarakol Islam, Chwee Ming Lim, and Hongliang Ren
   
@@ -86,7 +86,7 @@ IEEE International Conference on Robotics and Automation (ICRA) 2021
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2021</div><img src='images/CIDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-** Class-incremental domain adaptation with smoothing and calibration for surgical report generationy**
+**5. Class-incremental domain adaptation with smoothing and calibration for surgical report generationy**
 
 **Mengya Xu**, Mobarakol Islam, Chwee Ming Lim, and Hongliang Ren
   
@@ -101,7 +101,7 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2021
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/SwinMLP_TranCAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-** Rethinking Surgical Captioning: End-to-End Window-Based MLP Transformer Using Patches**
+**6. Rethinking Surgical Captioning: End-to-End Window-Based MLP Transformer Using Patches**
 
 **Mengya Xu**, Mobarakol Islam, Chwee Ming Lim, and Hongliang Ren
   
@@ -116,7 +116,7 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**
+**7. Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**
 
 An Wang\*, Mobarakol Islam\*, **Mengya Xu**, and Hongliang Ren\*\*
   
