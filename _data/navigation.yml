@@ -12,17 +12,17 @@ main:
   - title: "Conference Publications"
     url: "/#-conference-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
   - title: "Educations"
     url: "/#-educations"
-
-  - title: "Services"
+  
+    - title: "Services"
     url: "/#-services"
     
   - title: "Invited Talks"
     url: "/#-invited-talks"
+    
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
   - title: "Internships"
     url: "/#-internships"
