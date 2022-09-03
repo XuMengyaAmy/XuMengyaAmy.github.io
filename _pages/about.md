@@ -30,7 +30,7 @@ My research interests are mainly about Image-based Robotic Surgery Intelligence:
 # 🔥 News
 - *2022.06*: One paper about surgical captioning is accepted by MICCAI 2022.
 
-# 📝Journal Publications
+# 📝 Journal Publications
 
 **1. Self-powered glove-based intuitive interface for diversified control applications in real/cyber space**, He, Tianyiyi, Zhongda Sun, Qiongfeng Shi, Minglu Zhu, David Vera Anaya, **Mengya Xu**, Tao Chen, Mehmet Rasit Yuce, Aaron Voon-Yew Thean, and Chengkuo Lee. Nano Energy
 [pdf](https://www.sciencedirect.com/science/article/pii/S2211285519300771)
@@ -66,7 +66,7 @@ IEEE Robotics and Automation Letters (RA-L) 2022.
 </div>
 
   
-# 📝Conference Publications
+# 📝 Conference Publications
      
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='images/M2Transformer_DAN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -86,7 +86,7 @@ IEEE International Conference on Robotics and Automation (ICRA) 2021
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2021</div><img src='images/CIDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**5. Class-incremental domain adaptation with smoothing and calibration for surgical report generationy**
+**5. Class-incremental domain adaptation with smoothing and calibration for surgical report generation**
 
 **Mengya Xu**, Mobarakol Islam, Chwee Ming Lim, and Hongliang Ren
   
