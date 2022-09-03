@@ -135,14 +135,16 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 
 
 # 📖 Service
-- * 2022.07.03 - as a reviewer for  Domain Adaptation and Representation Transfer (DART) 2022.
+- 2022.07.03 - as a reviewer for  Domain Adaptation and Representation Transfer (DART) 2022.
+
 
 # 💬 Invited Talks
-- *2022.08*.30,  a joint workshop with Shandong Univeristy
+- 2022.08.30,  a joint workshop with Shandong Univeristy
 
-<!--
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+- 2018.06, Excellent Graduates, Soochow University
 
+
+# 🎖 Internships
+- *2021.09 - 2022.09*, Research Assistant, The Chinese University of Hong Kong
