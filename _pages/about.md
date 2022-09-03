@@ -17,9 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second year (2021-2025) Ph.D. student at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the [Department of Electronic Engineering](http://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). Previously, I was a Software Engineer at [Continental Automotive](https://www.continental-automotive.com/) in Singapore for two years. Before that, I worked with [Dr. Hao Wang](https://scholar.google.com.sg/citations?user=wwIAQ_4AAAAJ&hl) and [Prof. Chengkuo Lee](https://www.ece.nus.edu.sg/stfpage/elelc/bio.html) in the [Department of Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/), [National University of Singapore](https://www.nus.edu.sg/) and received my M.Sc. degree in 2019. From 2014 to 2018, I studied in [Soochow University](https://www.suda.edu.cn/) and received B.Eng. degree in Information Engineering. 
+I am currently a 4th year (2019-2023) Ph.D. student at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the Department of Biomedical Engineering, [National University of Singapore]((https://www.nus.edu.sg/)), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). Before that, I worked with Dr. QiongFeng and Dr. Yiyi Hetian and [Prof. Chengkuo Lee](https://www.ece.nus.edu.sg/stfpage/elelc/bio.html) in the [Department of Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/), [National University of Singapore](https://www.nus.edu.sg/) and received my M.Sc. degree in 2019. From 2014 to 2018, I studied in [Soochow University](https://www.suda.edu.cn/) and received B.Eng. degree in Information Engineering. 
 
-My research interests are mainly about source-constrained medical image computing and computer assisted intervention in a data-centric viewpoint. Topics that I am currently working on: synthetic data generation, domain adaptation and generalization, etc. 
+My research interests are mainly about Image-based Robotic Surgery Intelligence:
+(1) AI-driven multi-sensory perception to achieve surgical task automation
+(2) AI-powered large-scale data analysis to enhance surgical education
+(3) AI model development with human-like continuous learning / domain adaptation ability
+(4) Multi-Modal: Connecting Vision and Language to Actions
+(5) Data-centric AI
 
 
 # 🔥 News
@@ -27,7 +32,7 @@ My research interests are mainly about source-constrained medical image computin
 
 # 📝Journal Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIS 2020</div><img src='images/stentnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIS 2022</div><img src='images/stentnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Stent Deployment Detection Using Radio Frequency‐Based Sensor and Convolutional Neural Networks**
@@ -136,4 +141,3 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
-
