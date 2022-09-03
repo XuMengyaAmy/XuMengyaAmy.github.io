@@ -129,7 +129,7 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 
  
 # 📖 Educations
-- *2021.10 - now*, Ph.D., Biomedic Engineering, National University of Singapore, Singapore
+- *2019.08 - now*, Ph.D., Biomedic Engineering, National University of Singapore, Singapore
 - *2018.08 - 2019.06*, M.Sc., Electrical Engineering, National University of Singapore, Singapore
 - *2014.09 - 2018.06*, B.Eng., Information Engineering, Soochow University, Suzhou, China  (Excellent Graduates)
 
