@@ -103,7 +103,7 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2021
 
 **6. Rethinking Surgical Captioning: End-to-End Window-Based MLP Transformer Using Patches**
 
-**Mengya Xu**, Mobarakol Islam, Chwee Ming Lim, and Hongliang Ren
+**Mengya Xu**, Mobarakol Islam, and Hongliang Ren
   
 Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 
