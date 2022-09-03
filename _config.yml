@@ -30,7 +30,6 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Uq5qvyAAAAAJD"
   email            : "mengya@u.nus.edu"
   researchgate     : "https://www.researchgate.net/profile/Xu-Mengya"
-  linkedin         : "https://www.linkedin.com/company/mengya/"
   uri              :
   bitbucket        :
   codepen          :
@@ -38,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "xumengyaamy" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "xumengyaamy" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
