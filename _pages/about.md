@@ -68,7 +68,7 @@ IEEE Robotics and Automation Letters (RA-L) 2022.
   
 # 📝 Conference Publications
      
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='images/M2Transformer_DAN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/M2Transformer_DAN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **4. Learning domain adaptation with model calibration for surgical report generation in robotic surgery**
@@ -92,7 +92,7 @@ IEEE International Conference on Robotics and Automation (ICRA) 2021
   
 Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2021
 
-[pdf](https://arxiv.org/pdf/2107.11091.pdf) \| [Code](https://github.com/XuMengyaAmy/CIDACaptioning)
+[pdf](https://arxiv.org/pdf/2107.11091.pdf) \| [Code](https://github.com/XuMengyaAmy/CIDACaptioning) \| [Poster](https://github.com/XuMengyaAmy/XuMengyaAmy.github.io/blob/main/images/poster.png)
 
 </div>
 </div>
