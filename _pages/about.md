@@ -28,7 +28,7 @@ My research interests are mainly about Image-based Robotic Surgery Intelligence:
 
 
 # 🔥 News
-- *2022.06*: One paper about surgical captioning is accepted by MICCAI 2022.
+- *2022.10*: Two journal papers are accepted by T-ASE 2022 and RA-L 2022.
 
 # 📝 Journal Publications
 
