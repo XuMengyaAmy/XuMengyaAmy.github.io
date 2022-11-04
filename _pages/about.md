@@ -142,11 +142,12 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 
 
 # 💬 Invited Talks
-- 2022.08.30,  a joint workshop with Shandong Univeristy
+- 2022.08.30,  a joint workshop with Shandong University
 
 
 # 🎖 Honors and Awards
 - 2018.06, Excellent Graduates, Soochow University
+- 2021.09, Top 3 for group project work at the UCL Medical Image Computing Summer School (MedICSS)
 
 
 # 🎖 Internships
