@@ -74,7 +74,7 @@ IEEE Robotics and Automation Letters (RA-L) 2022.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/M2Transformer_DAN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**4. Learning domain adaptation with model calibration for surgical report generation in robotic surgery**
+**1. Learning domain adaptation with model calibration for surgical report generation in robotic surgery**
 
 **Mengya Xu**, Mobarakol Islam, Chwee Ming Lim, and Hongliang Ren
   
@@ -89,7 +89,7 @@ IEEE International Conference on Robotics and Automation (ICRA) 2021
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2021</div><img src='images/CIDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**5. Class-incremental domain adaptation with smoothing and calibration for surgical report generation**
+**2. Class-incremental domain adaptation with smoothing and calibration for surgical report generation**
 
 **Mengya Xu**, Mobarakol Islam, Chwee Ming Lim, and Hongliang Ren
   
@@ -104,7 +104,7 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2021
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/SwinMLP_TranCAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**6. Rethinking Surgical Captioning: End-to-End Window-Based MLP Transformer Using Patches**
+**3. Rethinking Surgical Captioning: End-to-End Window-Based MLP Transformer Using Patches**
 
 **Mengya Xu**, Mobarakol Islam, and Hongliang Ren
   
@@ -119,7 +119,7 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**7. Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**
+**4. Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**
 
 An Wang\*, Mobarakol Islam\*, **Mengya Xu**, and Hongliang Ren\*\*
   
