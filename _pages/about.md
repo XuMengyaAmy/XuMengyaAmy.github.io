@@ -113,11 +113,20 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 </div>
 </div>
 
-**5. S2ME: Spatial-Spectral Mutual Teaching and Ensemble Learning for Scribble-supervised Polyp Segmentation**
+**5. S<sup>2</sup>ME: Spatial-Spectral Mutual Teaching and Ensemble Learning for Scribble-supervised Polyp Segmentation**
 
-An Wang, Mengya Xu, Yang Zhang, Mobarakol Islam and Hongliang Ren
+An Wang, **Mengya Xu**, Yang Zhang, Mobarakol Islam and Hongliang Ren
 
-[pdf](https://arxiv.org/pdf/2306.00451.pdf)
+Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2023, early accpeted (top 14\% of 2253 submissions)
+
+[pdf](https://arxiv.org/pdf/2306.00451.pdf) \| [code](https://github.com/lofrienger/S2ME)
+
+**6 Rectifying Noisy Labels with Sequential Prior: Multi-Scale Temporal Feature Affinity Learning for Robust Video Segmentation**
+
+Beilei Cui\*, Mingqing Zhang\*, **Mengya Xu\***(Co-first author), An Wang and Hongliang Ren\*\*
+
+Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2023, under rebuttal.
+
 
  
 # 📖 Educations
