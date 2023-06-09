@@ -35,35 +35,10 @@ My research interests are mainly about Image-based Robotic Surgery Intelligence:
 **1. Self-powered glove-based intuitive interface for diversified control applications in real/cyber space**, He, Tianyiyi, Zhongda Sun, Qiongfeng Shi, Minglu Zhu, David Vera Anaya, **Mengya Xu**, Tao Chen, Mehmet Rasit Yuce, Aaron Voon-Yew Thean, and Chengkuo Lee. Nano Energy
 [pdf](https://www.sciencedirect.com/science/article/pii/S2211285519300771)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIS 2020</div><img src='images/stentnet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**2. Stent Deployment Detection Using Radio Frequency‐Based Sensor and Convolutional Neural Networks**
-
-**Mengya Xu**, Lalithkumar Seenivasan, Leonard Leong Litt Yeo, and Hongliang Ren.
-  
-Advanced Intelligent Systems 2020
-  
-[pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aisy.202000092) \| [code](https://github.com/XuMengyaAmy/Stent_Deployment_DL)
-
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2022</div><img src='images/SIRNet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-     
-**3. SIRNet: Fine-Grained Surgical Interaction Recognition**
-
-Li, Ling, Xiaojian Li, Shuai Ding, Zhao Fang, **Mengya Xu**, Hongliang Ren, and Shanlin Yang.  
-     
-IEEE Robotics and Automation Letters (RA-L) 2022. 
+**2. Stent Deployment Detection Using Radio Frequency‐Based Sensor and Convolutional Neural Networks**, **Mengya Xu**, Lalithkumar Seenivasan, Leonard Leong Litt Yeo, and Hongliang Ren. Advanced Intelligent Systems 2020
     
+**3. SIRNet: Fine-Grained Surgical Interaction Recognition**, Li, Ling, Xiaojian Li, Shuai Ding, Zhao Fang, **Mengya Xu**, Hongliang Ren, and Shanlin Yang. IEEE Robotics and Automation Letters (RA-L) 2022. 
 [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9705584) \| [code](https://github.com/cynerelee/SIRNet)
-     
-</div>
-</div>
 
 **4. Confidence-Aware Paced-Curriculum Learning by Label Smoothing for Surgical Scene Understanding**, **Mengya Xu**, Mobarakol Islam, Ben Glocker and Hongliang Ren. IEEE Transactions on Automation Science and Engineering (T-ASE), 2022
 
@@ -75,9 +50,6 @@ IEEE Robotics and Automation Letters (RA-L) 2022.
 
 **8. Surgical Blender: A Synthetic Dataset Generator for Robot-Assisted Surgery**, Mengya Xu, Jieming Yu, Omer Raza, An Wang, Minghung Ma, Hongliang Ren. Medical Image Analysis (MIA), 2023, under review.
 
-
-
-  
 # 📝 Conference Publications
      
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/M2Transformer_DAN.png' alt="sym" width="100%"></div></div>
