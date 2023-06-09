@@ -28,7 +28,7 @@ My research interests are mainly about Image-based Robotic Surgery Intelligence:
 
 
 # 🔥 News
-- *2022.10*: Two journal papers are accepted by T-ASE 2022 and RA-L 2022.
+- *2023.05*: one paper is early accepted by MICCAI.
 
 # 📝 Journal Publications
 
@@ -68,6 +68,11 @@ IEEE Robotics and Automation Letters (RA-L) 2022.
 **4. Confidence-Aware Paced-Curriculum Learning by Label Smoothing for Surgical Scene Understanding**, **Mengya Xu**, Mobarakol Islam, Ben Glocker and Hongliang Ren. IEEE Transactions on Automation Science and Engineering (T-ASE), 2022
 
 **5. Rethinking Feature Extraction: Gradient-based Localized Feature Extraction for End-to-End Surgical Downstream Tasks**, Winnie Pang, Mobarakol Islam, Sai Mitheran, Lalithkumar Seenivasan, **Mengya Xu**, Hongliang Ren. IEEE Robotics and Automation Letters (RA-L), 2022
+
+**6. Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery**, **Mengya Xu**, Mobarakol Islam, Long Bai and Hongliang Ren. IEEE Transactions on Medical Imaging (TMI), 2023, 2nd revision.
+
+**7. Curriculum-Based Augmented Fourier Domain Adaptation for Robust Medical Image Segmentation**, An Wang\*, Mobarakol Islam\*, **Mengya Xu**\*(Co-first author) and Hongliang Ren\*\*. IEEE Transactions on Automation Science and Engineering (T-ASE), 2023, 2nd revision.
+
   
 # 📝 Conference Publications
      
@@ -129,6 +134,12 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 
 </div>
 </div>
+
+**5. S2ME: Spatial-Spectral Mutual Teaching and Ensemble Learning for Scribble-supervised Polyp Segmentation**
+
+An Wang, Mengya Xu, Yang Zhang, Mobarakol Islam and Hongliang Ren
+
+[pdf](https://arxiv.org/pdf/2306.00451.pdf)
 
  
 # 📖 Educations
