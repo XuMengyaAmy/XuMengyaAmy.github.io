@@ -73,6 +73,10 @@ IEEE Robotics and Automation Letters (RA-L) 2022.
 
 **7. Curriculum-Based Augmented Fourier Domain Adaptation for Robust Medical Image Segmentation**, An Wang\*, Mobarakol Islam\*, **Mengya Xu**\*(Co-first author) and Hongliang Ren\*\*. IEEE Transactions on Automation Science and Engineering (T-ASE), 2023, 2nd revision.
 
+**8. Surgical Blender: A Synthetic Dataset Generator for Robot-Assisted Surgery**, Mengya Xu, Jieming Yu, Omer Raza, An Wang, Minghung Ma, Hongliang Ren. Medical Image Analysis (MIA), 2023, under review.
+
+
+
   
 # 📝 Conference Publications
      
