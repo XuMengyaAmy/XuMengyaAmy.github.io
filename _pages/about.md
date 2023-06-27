@@ -46,13 +46,15 @@ My research interests are mainly about Image-based Robotic Surgery Intelligence:
 **5. Rethinking Feature Extraction: Gradient-based Localized Feature Extraction for End-to-End Surgical Downstream Tasks**, Winnie Pang, Mobarakol Islam, Sai Mitheran, Lalithkumar Seenivasan, **Mengya Xu**, Hongliang Ren. IEEE Robotics and Automation Letters (RA-L), 2022
 [pdf](https://doi.org/10.1109/LRA.2022.3221310)
 
+**6. Curriculum-Based Augmented Fourier Domain Adaptation for Robust Medical Image Segmentation**, An Wang\*, Mobarakol Islam\*, **Mengya Xu**\*(Co-first author) and Hongliang Ren\*\*. IEEE Transactions on Automation Science and Engineering (T-ASE), 2023.
+
+Under Review:
 **6. Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery**, **Mengya Xu**, Mobarakol Islam, Long Bai and Hongliang Ren. IEEE Transactions on Medical Imaging (TMI), 2023, 2nd revision.
 
-**7. Curriculum-Based Augmented Fourier Domain Adaptation for Robust Medical Image Segmentation**, An Wang\*, Mobarakol Islam\*, **Mengya Xu**\*(Co-first author) and Hongliang Ren\*\*. IEEE Transactions on Automation Science and Engineering (T-ASE), 2023, 2nd revision.
+**7. Surgical Blender: A Synthetic Dataset Generator for Robot-Assisted Surgery**, **Mengya Xu**, Jieming Yu, Omer Raza, An Wang, Minghung Ma, Hongliang Ren. Medical Image Analysis (MIA), 2023, under review.
 
-**8. Surgical Blender: A Synthetic Dataset Generator for Robot-Assisted Surgery**, **Mengya Xu**, Jieming Yu, Omer Raza, An Wang, Minghung Ma, Hongliang Ren. Medical Image Analysis (MIA), 2023, under review.
+**8. A Lightweight MLP-based Point-guided Segmentation Network for Ore Images**,  Yuting Peng, **Mengya Xu**, An Wang, Yang Zhang, Hongliang Ren. IEEE Transactions on Industrial Informatics (TII), 2023, under review.
 
-**9. A Lightweight MLP-based Point-guided Segmentation Network for Ore Images**,  Yuting Peng, **Mengya Xu**, An Wang, Yang Zhang, Hongliang Ren. IEEE Transactions on Industrial Informatics (TII), 2023, under review.
 
 # 📝 Conference Publications
      
@@ -127,10 +129,8 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2023, early 
 
 Beilei Cui\*, Mingqing Zhang\*, **Mengya Xu\***(Co-first author), An Wang and Hongliang Ren\*\*
 
-Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2023, under rebuttal.
+Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2023.
 
-
- 
 # 📖 Educations
 - *2019.08 - now*, Ph.D., Biomedic Engineering, National University of Singapore, Singapore
 - *2018.08 - 2019.06*, M.Sc., Electrical Engineering, National University of Singapore, Singapore
