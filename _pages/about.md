@@ -48,7 +48,6 @@ My research interests are mainly about Image-based Robotic Surgery Intelligence:
 [pdf](https://doi.org/10.1109/LRA.2022.3221310) \| [code](https://github.com/PangWinnie0219/GradCAMDownstreamTask)
  
 **6. Curriculum-Based Augmented Fourier Domain Adaptation for Robust Medical Image Segmentation**, An Wang\*, Mobarakol Islam\*, **Mengya Xu**\*(Co-first author) and Hongliang Ren\*\*. IEEE Transactions on Automation Science and Engineering (T-ASE), 2023.
-
 [pdf](https://arxiv.org/pdf/2306.03511.pdf) \| [code](https://github.com/lofrienger/Curri-AFDA)
 
 Under Review:
@@ -57,6 +56,8 @@ Under Review:
 **7. Surgical Blender: A Synthetic Dataset Generator for Robot-Assisted Surgery**, **Mengya Xu**, Jieming Yu, Omer Raza, An Wang, Minghung Ma, Hongliang Ren. Medical Image Analysis (MIA), 2023, under review.
 
 **8. A Lightweight MLP-based Point-guided Segmentation Network for Ore Images**,  Yuting Peng, **Mengya Xu**, An Wang, Yang Zhang, Hongliang Ren. IEEE Transactions on Industrial Informatics (TII), 2023, under review.
+
+**9. MRAT: Exploring Continual Surgical Image Captioning under Domain Shifts**,  **Mengya Xu**, Hongliang Ren. International Journal of Computer Assisted Radiology and Surgery (IJCAR), 2023, under review.
 
 
 # 📝 Conference Publications
