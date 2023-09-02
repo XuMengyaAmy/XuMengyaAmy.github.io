@@ -36,7 +36,8 @@ My research interests are mainly about Image-based Robotic Surgery Intelligence:
 [pdf](https://www.sciencedirect.com/science/article/pii/S2211285519300771)
 
 **2. Stent Deployment Detection Using Radio Frequency‐Based Sensor and Convolutional Neural Networks**, **Mengya Xu**, Lalithkumar Seenivasan, Leonard Leong Litt Yeo, and Hongliang Ren. Advanced Intelligent Systems 2020
-    
+[pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aisy.202000092) \| [code](https://github.com/XuMengyaAmy/Stent_Deployment_DL)
+
 **3. SIRNet: Fine-Grained Surgical Interaction Recognition**, Li, Ling, Xiaojian Li, Shuai Ding, Zhao Fang, **Mengya Xu**, Hongliang Ren, and Shanlin Yang. IEEE Robotics and Automation Letters (RA-L) 2022. 
 [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9705584) \| [code](https://github.com/cynerelee/SIRNet)
 
@@ -44,9 +45,11 @@ My research interests are mainly about Image-based Robotic Surgery Intelligence:
 [pdf](https://ieeexplore.ieee.org/abstract/document/10138463) \| [code](https://github.com/XuMengyaAmy/P-CBLS)
 
 **5. Rethinking Feature Extraction: Gradient-based Localized Feature Extraction for End-to-End Surgical Downstream Tasks**, Winnie Pang, Mobarakol Islam, Sai Mitheran, Lalithkumar Seenivasan, **Mengya Xu**, Hongliang Ren. IEEE Robotics and Automation Letters (RA-L), 2022
-[pdf](https://doi.org/10.1109/LRA.2022.3221310)
-
+[pdf](https://doi.org/10.1109/LRA.2022.3221310) \| [code](https://github.com/PangWinnie0219/GradCAMDownstreamTask)
+ 
 **6. Curriculum-Based Augmented Fourier Domain Adaptation for Robust Medical Image Segmentation**, An Wang\*, Mobarakol Islam\*, **Mengya Xu**\*(Co-first author) and Hongliang Ren\*\*. IEEE Transactions on Automation Science and Engineering (T-ASE), 2023.
+
+[pdf](https://arxiv.org/pdf/2306.03511.pdf) \| [code](https://github.com/lofrienger/Curri-AFDA)
 
 Under Review:
 **6. Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery**, **Mengya Xu**, Mobarakol Islam, Long Bai and Hongliang Ren. IEEE Transactions on Medical Imaging (TMI), 2023, 2nd revision.
@@ -67,7 +70,7 @@ Under Review:
   
 IEEE International Conference on Robotics and Automation (ICRA) 2021 
 
-[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561569)] \| [code](https://github.com/XuMengyaAmy/ReportDALS)
+[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561569) \| [code](https://github.com/XuMengyaAmy/ReportDALS)
 
 </div>
 </div>
@@ -130,6 +133,10 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2023, early 
 Beilei Cui\*, Mingqing Zhang\*, **Mengya Xu\***(Co-first author), An Wang and Hongliang Ren\*\*
 
 Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2023.
+
+[pdf] (https://arxiv.org/pdf/2307.05898.pdf) \| [code] (https://github.com/BeileiCui/MS-TFAL)
+
+[pdf](https://arxiv.org/pdf/2307.05898.pdf) \| [code](https://github.com/BeileiCui/MS-TFAL)
 
 # 📖 Educations
 - *2019.08 - now*, Ph.D., Biomedic Engineering, National University of Singapore, Singapore
