@@ -101,7 +101,7 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2021
   
 Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 
-[pdf](https://arxiv.org/pdf/2207.00113.pdf)] \| [Code](https://github.com/XuMengyaAmy/SwinMLP_TranCAP)
+[pdf](https://arxiv.org/pdf/2207.00113.pdf) \| [Code](https://github.com/XuMengyaAmy/SwinMLP_TranCAP)
 
 </div>
 </div>
