@@ -28,7 +28,7 @@ My research interests are mainly about Image-based Robotic Surgery Intelligence:
 
 
 # 🔥 News
-- *2024.02*: our paper named "Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery"[pdf](https://ieeexplore.ieee.org/abstract/document/10443356) is accepted by TMI.
+- *2024.02*: Our paper titled "Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery" was accepted by TMI ([pdf](https://ieeexplore.ieee.org/abstract/document/10443356)).
 
 # 📝 Journal Publications
 
