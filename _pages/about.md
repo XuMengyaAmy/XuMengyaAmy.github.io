@@ -28,7 +28,7 @@ My research interests are mainly about Image-based Robotic Surgery Intelligence:
 
 
 # 🔥 News
-- *2023.05*: one paper is early accepted by MICCAI.
+- *2024.02*: our paper named "Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery"[pdf](https://ieeexplore.ieee.org/abstract/document/10443356) is accepted by TMI.
 
 # 📝 Journal Publications
 
@@ -51,7 +51,9 @@ My research interests are mainly about Image-based Robotic Surgery Intelligence:
 [pdf](https://arxiv.org/pdf/2306.03511.pdf) \| [code](https://github.com/lofrienger/Curri-AFDA)
 
 Under Review:
-**6. Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery**, **Mengya Xu**, Mobarakol Islam, Long Bai and Hongliang Ren. IEEE Transactions on Medical Imaging (TMI), 2023, 2nd revision.
+**6. Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery**, **Mengya Xu**, Mobarakol Islam, Long Bai and Hongliang Ren. IEEE Transactions on Medical Imaging (TMI), 2024.
+[pdf](https://ieeexplore.ieee.org/abstract/document/10443356) \| [code](https://github.com/XuMengyaAmy/Synthetic_CAT_SD)
+
 
 **7. Surgical Blender: A Synthetic Dataset Generator for Robot-Assisted Surgery**, **Mengya Xu**, Jieming Yu, Omer Raza, An Wang, Minghung Ma, Hongliang Ren. Medical Image Analysis (MIA), 2023, under review.
 
