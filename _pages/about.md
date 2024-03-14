@@ -44,20 +44,25 @@ My research interests are mainly about Image-based Robotic Surgery Intelligence:
 **4. Confidence-Aware Paced-Curriculum Learning by Label Smoothing for Surgical Scene Understanding**, **Mengya Xu**, Mobarakol Islam, Ben Glocker and Hongliang Ren. IEEE Transactions on Automation Science and Engineering (T-ASE), 2022
 [pdf](https://ieeexplore.ieee.org/abstract/document/10138463) \| [code](https://github.com/XuMengyaAmy/P-CBLS)
 
-**5. Rethinking Feature Extraction: Gradient-based Localized Feature Extraction for End-to-End Surgical Downstream Tasks**, Winnie Pang, Mobarakol Islam, Sai Mitheran, Lalithkumar Seenivasan, **Mengya Xu**, Hongliang Ren. IEEE Robotics and Automation Letters (RA-L), 2022
+**5. Rethinking Feature Extraction: Gradient-based Localized Feature Extraction for End-to-End Surgical Downstream Tasks**, Winnie Pang, Mobarakol Islam, Sai Mitheran, Lalithkumar Seenivasan, **Mengya Xu**, Hongliang Ren. IEEE Robotics and Automation Letters (RA-L), 2022.
 [pdf](https://doi.org/10.1109/LRA.2022.3221310) \| [code](https://github.com/PangWinnie0219/GradCAMDownstreamTask)
- 
-**6. Curriculum-Based Augmented Fourier Domain Adaptation for Robust Medical Image Segmentation**, An Wang\*, Mobarakol Islam\*, **Mengya Xu**\*(Co-first author) and Hongliang Ren\*\*. IEEE Transactions on Automation Science and Engineering (T-ASE), 2023.
+
+**6. Task-aware asynchronous multi-task model with class incremental contrastive learning for surgical scene understanding**, Seenivasan, Lalithkumar, Mobarakol Islam, **Mengya Xu**, Chwee Ming Lim, and Hongliang Ren. International Journal of Computer Assisted Radiology and Surgery. 2023.
+[pdf](https://link.springer.com/article/10.1007/s11548-022-02800-2)
+
+**7. AMagPoseNet: Real-Time 6-DoF Magnet Pose Estimation by Dual-Domain Few-Shot Learning From Prior Model**, Su, Shijian, Sishen Yuan, **Mengya Xu**, Huxin Gao, Xiaoxiao Yang, and Hongliang Ren. IEEE Transactions on Industrial Informatics (2023).
+
+**8. Curriculum-Based Augmented Fourier Domain Adaptation for Robust Medical Image Segmentation**, An Wang\*, Mobarakol Islam\*, **Mengya Xu**\*(Co-first author) and Hongliang Ren\*\*. IEEE Transactions on Automation Science and Engineering (T-ASE), 2023.
 [pdf](https://arxiv.org/pdf/2306.03511.pdf) \| [code](https://github.com/lofrienger/Curri-AFDA)
 
-**7. Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery**, **Mengya Xu**, Mobarakol Islam, Long Bai and Hongliang Ren. IEEE Transactions on Medical Imaging (TMI), 2024.
+**9. Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery**, **Mengya Xu**, Mobarakol Islam, Long Bai and Hongliang Ren. IEEE Transactions on Medical Imaging (TMI), 2024.
 [pdf](https://ieeexplore.ieee.org/abstract/document/10443356) \| [code](https://github.com/XuMengyaAmy/Synthetic_CAT_SD)
 
-**8. A Lightweight MLP-based Point-guided Segmentation Network for Ore Images**,  Yuting Peng, **Mengya Xu**, An Wang, Yang Zhang, Hongliang Ren. IEEE Transactions on Industrial Informatics (TII), 2024
+**10. An Efficient MLP-based Point-guided Segmentation Network for Ore Images with Ambiguous Boundary**,  Yuting Peng, **Mengya Xu**, An Wang, Yang Zhang, Hongliang Ren. IEEE Transactions on Industrial Informatics (TII), 2024
 
-**9. Surgical Blender: A Synthetic Dataset Generator for Robot-Assisted Surgery**, **Mengya Xu**, Jieming Yu, Omer Raza, An Wang, Minghung Ma, Hongliang Ren. Medical Image Analysis (MIA), 2024, under review.
+**11. Surgical Blender: A Synthetic Dataset Generator for Robot-Assisted Surgery**, **Mengya Xu**, Jieming Yu, Omer Raza, An Wang, Minghung Ma, Hongliang Ren. Medical Image Analysis (MIA), 2024, under review.
 
-**10. MRAT: Exploring Continual Surgical Image Captioning under Domain Shifts**,  **Mengya Xu**, Hongliang Ren. International Journal of Computer Assisted Radiology and Surgery (IJCAR), 2024, under review.
+**12. MRAT: Exploring Continual Surgical Image Captioning under Domain Shifts**,  **Mengya Xu**, Hongliang Ren. International Journal of Computer Assisted Radiology and Surgery (IJCAR), 2024, under review.
 
 
 # 📝 Conference Publications
