@@ -51,6 +51,7 @@ My research interests are mainly about Image-based Robotic Surgery Intelligence:
 [pdf](https://link.springer.com/article/10.1007/s11548-022-02800-2)
 
 **7. AMagPoseNet: Real-Time 6-DoF Magnet Pose Estimation by Dual-Domain Few-Shot Learning From Prior Model**, Su, Shijian, Sishen Yuan, **Mengya Xu**, Huxin Gao, Xiaoxiao Yang, and Hongliang Ren. IEEE Transactions on Industrial Informatics (2023).
+[pdf](https://ieeexplore.ieee.org/abstract/document/10005853)
 
 **8. Curriculum-Based Augmented Fourier Domain Adaptation for Robust Medical Image Segmentation**, An Wang\*, Mobarakol Islam\*, **Mengya Xu**\*(Co-first author) and Hongliang Ren\*\*. IEEE Transactions on Automation Science and Engineering (T-ASE), 2023.
 [pdf](https://arxiv.org/pdf/2306.03511.pdf) \| [code](https://github.com/lofrienger/Curri-AFDA)
