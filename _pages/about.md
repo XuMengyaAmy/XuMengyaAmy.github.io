@@ -117,7 +117,6 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 <div class='paper-box-text' markdown="1">
 
 **4. Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**
-
 An Wang\*, Mobarakol Islam\*, **Mengya Xu**, and Hongliang Ren\*\*
   
 Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
@@ -144,6 +143,8 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2023.
 [pdf] (https://arxiv.org/pdf/2307.05898.pdf) \| [code] (https://github.com/BeileiCui/MS-TFAL)
 
 [pdf](https://arxiv.org/pdf/2307.05898.pdf) \| [code](https://github.com/BeileiCui/MS-TFAL)
+
+**7 Sam meets robotic surgery: An empirical study in robustness perspective**, Wang, An, Mobarakol Islam, **Mengya Xu**, Yang Zhang, and Hongliang Ren, Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023. [pdf] (https://link.springer.com/chapter/10.1007/978-3-031-47401-9_23)
 
 # 📖 Educations
 - *2019.08 - now*, Ph.D., Biomedic Engineering, National University of Singapore, Singapore
