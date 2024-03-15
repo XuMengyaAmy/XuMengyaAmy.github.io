@@ -116,33 +116,13 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/single_bg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**4. Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**
-An Wang\*, Mobarakol Islam\*, **Mengya Xu**, and Hongliang Ren\*\*
-  
-Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
-
-[pdf](https://arxiv.org/abs/2206.11804) \| [code](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation)
-
+**4. Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**, An Wang\*, Mobarakol Islam\*, **Mengya Xu**, and Hongliang Ren\*\*, Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022, [pdf](https://arxiv.org/abs/2206.11804) \| [code](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation)
 </div>
 </div>
 
-**5. S<sup>2</sup>ME: Spatial-Spectral Mutual Teaching and Ensemble Learning for Scribble-supervised Polyp Segmentation**
+**5. S<sup>2</sup>ME: Spatial-Spectral Mutual Teaching and Ensemble Learning for Scribble-supervised Polyp Segmentation**, An Wang, **Mengya Xu**, Yang Zhang, Mobarakol Islam and Hongliang Ren, Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2023. [pdf](https://arxiv.org/pdf/2306.00451.pdf) \| [code](https://github.com/lofrienger/S2ME)
 
-An Wang, **Mengya Xu**, Yang Zhang, Mobarakol Islam and Hongliang Ren
-
-Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2023, early accpeted (top 14\% of 2253 submissions)
-
-[pdf](https://arxiv.org/pdf/2306.00451.pdf) \| [code](https://github.com/lofrienger/S2ME)
-
-**6 Rectifying Noisy Labels with Sequential Prior: Multi-Scale Temporal Feature Affinity Learning for Robust Video Segmentation**
-
-Beilei Cui\*, Mingqing Zhang\*, **Mengya Xu\***(Co-first author), An Wang and Hongliang Ren\*\*
-
-Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2023.
-
-[pdf] (https://arxiv.org/pdf/2307.05898.pdf) \| [code] (https://github.com/BeileiCui/MS-TFAL)
-
-[pdf](https://arxiv.org/pdf/2307.05898.pdf) \| [code](https://github.com/BeileiCui/MS-TFAL)
+**6 Rectifying Noisy Labels with Sequential Prior: Multi-Scale Temporal Feature Affinity Learning for Robust Video Segmentation**, Beilei Cui\*, Mingqing Zhang\*, **Mengya Xu\***(Co-first author), An Wang and Hongliang Ren\*\*, Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2023. [pdf](https://arxiv.org/pdf/2307.05898.pdf) \| [code] (https://github.com/BeileiCui/MS-TFAL)
 
 **7 Sam meets robotic surgery: An empirical study in robustness perspective**, Wang, An, Mobarakol Islam, **Mengya Xu**, Yang Zhang, and Hongliang Ren, Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023. [pdf] (https://link.springer.com/chapter/10.1007/978-3-031-47401-9_23)
 
