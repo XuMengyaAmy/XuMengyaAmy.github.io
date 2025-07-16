@@ -144,8 +144,8 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 - 2018.06, Excellent Graduates, Soochow University
 - 2021.09, Top 3 for group project work at the UCL Medical Image Computing Summer School (MedICSS)
 - IEEE ICRA RAS Travel Grants Award, 2025
-- IPCAI 2025, The IHU Strasbourg and NDI Bench to Bedside Award
-- MRC Symposium 2025, Best Application Award, Best Application Merit Award
+- The IHU Strasbourg and NDI Bench to Bedside Award, IPCAI 2025
+- Best Application Award, Best Application Merit Award, MRC Symposium 2025
 
 
 # 🎖 Internships
