@@ -127,18 +127,9 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 **7 Sam meets robotic surgery: An empirical study in robustness perspective**, Wang, An, Mobarakol Islam, **Mengya Xu**, Yang Zhang, and Hongliang Ren, Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023. [pdf] (https://link.springer.com/chapter/10.1007/978-3-031-47401-9_23)
 
 # 📖 Educations
-- *2019.08 - now*, Ph.D., Biomedical Engineering, National University of Singapore, Singapore
+- *2019.08 - 2024.03*, Ph.D., Biomedical Engineering, National University of Singapore, Singapore
 - *2018.08 - 2019.06*, M.Sc., Electrical Engineering, National University of Singapore, Singapore
 - *2014.09 - 2018.06*, B.Eng., Information Engineering, Soochow University, Suzhou, China  (Excellent Graduates)
-
-
-# 📖 Services
-- 2022.07.03 - as a reviewer for  Domain Adaptation and Representation Transfer (DART) 2022.
-
-
-# 💬 Invited Talks
-- 2022.08.30,  a joint workshop with Shandong University
-
 
 # 🎖 Honors and Awards
 - 2018.06, Excellent Graduates, Soochow University
@@ -146,6 +137,13 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 - IEEE ICRA RAS Travel Grants Award, 2025
 - The IHU Strasbourg and NDI Bench to Bedside Award, IPCAI 2025
 - Best Application Award, Best Application Merit Award, MRC Symposium 2025
+
+# 📖 Services
+- 2022.07.03 - as a reviewer for  Domain Adaptation and Representation Transfer (DART) 2022.
+
+
+# 💬 Invited Talks
+- 2022.08.30,  a joint workshop with Shandong University
 
 
 # 🎖 Internships
