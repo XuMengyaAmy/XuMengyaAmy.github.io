@@ -17,18 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Postdoctoral Fellow at the Multi-Scale Medical Robotics Center, Hong Kong. I received my Ph.D. degree from [Medical Mechatronics Lab](http://www.labren.org/mm/) of the Department of Biomedical Engineering, [National University of Singapore]((https://www.nus.edu.sg/)), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). I served as a research assistant in the laboratory of Prof. Yueming Jin [https://yuemingjin.github.io/] at NUS in 2023. During my master's project, I worked with Dr. Tianyiyi  He, Dr. QiongFeng Shi and [Prof. Chengkuo Lee](https://www.ece.nus.edu.sg/stfpage/elelc/bio.html) in the [Department of Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/), [National University of Singapore](https://www.nus.edu.sg/), and received my M.Sc. degree in 2019. From 2014 to 2018, I studied in [Soochow University](https://www.suda.edu.cn/) and received B.Eng. degree in Information Engineering. 
+I am currently a Research Assistant Professor in the Department of Computer Science and Engineering at The Chinese University of Hong Kong. I received my Ph.D. degree from [Medical Mechatronics Lab](http://www.labren.org/mm/) of the Department of Biomedical Engineering, [National University of Singapore]((https://www.nus.edu.sg/)), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). I served as a research assistant in the laboratory of Prof. Yueming Jin [https://yuemingjin.github.io/] at NUS in 2023. During my master's project, I worked with Dr. Tianyiyi  He, Dr. QiongFeng Shi and [Prof. Chengkuo Lee](https://www.ece.nus.edu.sg/stfpage/elelc/bio.html) in the [Department of Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/), [National University of Singapore](https://www.nus.edu.sg/), and received my M.Sc. degree in 2019. From 2014 to 2018, I studied in [Soochow University](https://www.suda.edu.cn/) and received B.Eng. degree in Information Engineering. 
 
 My research interests are mainly about Image-based Robotic Surgery Intelligence:
-(1) AI-driven multi-sensory perception to achieve surgical task automation
-(2) AI-powered large-scale data analysis to enhance surgical education
-(3) AI model development with human-like continuous learning / domain adaptation ability
-(4) Multi-Modal: Connecting Vision and Language to Actions
-(5) Data-centric AI
-
+(1) AI-powered medical data analysis; 
+(2) data-driven medical decision-making with enhanced safety; 
+(3) MLLM-based contextual intelligence for medical decision support.
 
 # 🔥 News
-- *2024.02*: Our paper titled "Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery" was accepted by TMI ([pdf](https://ieeexplore.ieee.org/abstract/document/10443356)).
+- *2025.07*: One paper accepted to ICIA 2025
+- *2025.06*: Two papers accepted to MICCAI 2025 (one early accept)
+- *2025.02*: One paper accepted to IPCAI 2025 (Accepted papers to submit final versions to IJCARS)
+- *2025.02*: One paper accepted to ICRA 2025
 
 # 📝 Journal Publications
 
@@ -127,7 +127,7 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 **7 Sam meets robotic surgery: An empirical study in robustness perspective**, Wang, An, Mobarakol Islam, **Mengya Xu**, Yang Zhang, and Hongliang Ren, Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023. [pdf] (https://link.springer.com/chapter/10.1007/978-3-031-47401-9_23)
 
 # 📖 Educations
-- *2019.08 - now*, Ph.D., Biomedic Engineering, National University of Singapore, Singapore
+- *2019.08 - now*, Ph.D., Biomedical Engineering, National University of Singapore, Singapore
 - *2018.08 - 2019.06*, M.Sc., Electrical Engineering, National University of Singapore, Singapore
 - *2014.09 - 2018.06*, B.Eng., Information Engineering, Soochow University, Suzhou, China  (Excellent Graduates)
 
@@ -143,6 +143,9 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 # 🎖 Honors and Awards
 - 2018.06, Excellent Graduates, Soochow University
 - 2021.09, Top 3 for group project work at the UCL Medical Image Computing Summer School (MedICSS)
+- IEEE ICRA RAS Travel Grants Award, 2025
+- IPCAI 2025, The IHU Strasbourg and NDI Bench to Bedside Award
+- MRC Symposium 2025, Best Application Award, Best Application Merit Award
 
 
 # 🎖 Internships
