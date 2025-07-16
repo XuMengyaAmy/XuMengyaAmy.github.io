@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mengya Xu"
-description              : "PhD candidate of National University of Singapore "
+description              : "Research Assistant Professor"
 repository               : "XuMengyaAmy/XuMengyaAmy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mengya Xu (徐梦雅)"
   avatar           : "images/Mengya.jpg"
-  bio              : "National University of Singapore"
-  location         : "Singapore"
+  bio              : "The Chinese University of Hong Kong"
+  location         : "Hong Kong SAR"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Uq5qvyAAAAAJD&user=Uq5qvyAAAAAJ"
