@@ -138,7 +138,9 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2022
 - IEEE ICRA RAS Travel Grants Award, 2025
 - The IHU Strasbourg and NDI Bench to Bedside Award, IPCAI 2025
 - Best Application Award, Best Application Merit Award, MRC Symposium 2025
+- MICCAI 2025 Registration Grant
 - IROS 2025 IEEE RAS Travel Support
+
 
 # 📖 Services
 - 2022.07.03 - as a reviewer for  Domain Adaptation and Representation Transfer (DART) 2022.
