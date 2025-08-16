@@ -25,6 +25,7 @@ My research interests are mainly about Image-based Robotic Surgery Intelligence:
 (3) MLLM-based contextual intelligence for medical decision support.
 
 # 🔥 News
+- MICCAI 2025 Registration Grant and IROS 2025 IEEE RAS Travel Support
 - *2025.08*: One paper accepted to ICBIR 2025
 - *2025.07*: One paper accepted to ICIA 2025
 - *2025.06*: Two papers accepted to MICCAI 2025 (one early accept)
